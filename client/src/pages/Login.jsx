@@ -6,7 +6,7 @@ import {AiOutlineLock} from 'react-icons/ai'
 const Login = () => {
   return (
     <div>
-        <div className='bg-slate-800 border border-slate-400 p-8 rounded-md shadow-lg backdrop-filter backdrop-blur-sm bg-opacity-30 relative '>
+        <div className='bg-slate-900 border border-slate-400 p-8 rounded-md shadow-lg backdrop-filter backdrop-blur-sm bg-opacity-30 relative '>
             <h1 className='text-4xl text-whitefont-bold text-center mb-6 '>Login</h1>
                 <form className=''>
                 <div className='relative my-4'>
